@@ -1,0 +1,15 @@
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/isabella/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/isabella/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/isabella/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/isabella/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/isabella/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/isabella/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/isabella/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/home/isabella/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
